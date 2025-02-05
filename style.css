@@ -1,0 +1,46 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #2c3e50, #3498db); 
+    color: #ecf0f1; 
+    text-align: center;
+
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    color: #f39c12;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Sections */
+section {
+    width: 60%;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Introduction Section */
+#introduction {
+    background: linear-gradient(to right, #ff7675, #e84393);
+    color: #621717;
+}
+
+/* Education Section */
+#education {
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    color: #b54a4a;
+}
+
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #470e84;
+    font-weight: bold;
